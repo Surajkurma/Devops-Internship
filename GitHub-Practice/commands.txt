@@ -8,3 +8,5 @@ GitHub Practice - DevOps Internship
 6. git pull
 7. git clone
 8. git log
+9. git remote -v
+10. git branch
