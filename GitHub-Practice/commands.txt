@@ -1,0 +1,10 @@
+GitHub Practice - DevOps Internship
+
+1. git init
+2. git status
+3. git add .
+4. git commit -m "Initial commit"
+5. git push
+6. git pull
+7. git clone
+8. git log
