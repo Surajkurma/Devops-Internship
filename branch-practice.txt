@@ -1,0 +1,6 @@
+Git Branching Practice
+
+I created my first feature branch.
+Branch: feature-practice
+
+Learning Git Branching and Merging.
